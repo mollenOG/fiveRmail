@@ -36,10 +36,6 @@ Immerse yourself in the advantages of a decentralized web—where the reins of y
 5. **Start Sending and Receiving with Confidence:**
    - Dive into the liberating experience of sending and receiving emails on your terms.
 
-## Contributing
-
-Your contributions are invaluable to this project! Consult the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file to ensure seamless collaboration.
-
 ## License
 
 This project operates under the permissive MIT License—empowering users with the freedom to use, modify, and share the software.
